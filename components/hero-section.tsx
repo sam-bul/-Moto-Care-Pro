@@ -69,7 +69,7 @@ export function HeroSection() {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl group w-full max-w-xs sm:max-w-sm lg:max-w-md xl:max-w-lg">
               <div className="aspect-square sm:aspect-[4/3] lg:aspect-square xl:aspect-[4/3]">
                 <img
-                  src="/professional-motorcycle-repair-workshop-with-mecha.jpg"
+                  src="/hero.jpg"
                   alt="Professional motorcycle repair workshop"
                   className="w-full h-full object-cover transition-all duration-700 group-hover:scale-105"
                 />
